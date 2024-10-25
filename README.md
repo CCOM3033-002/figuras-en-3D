@@ -6,7 +6,7 @@ Este laboratorio tiene un valor de 15 puntos. La fecha de entrega es está en mo
 
 Escriba un programa que le pida al usuario que escoja entre las sigueintes figuras en 3 dimensiones: cilindro, esfera, prisma rectangular. Luego le pregunte si quiere calcular el volumen o el área de la superficie de la figura escogida. El programa debe hacer *overloading* de las funciones para calcular volumen y área de la superficie. Es decir, deben haber tres funciones *overloaded* para volumen (una para cada figura) y tres funciones *overloaded* para área de la superficia (una para cada figura). Redonde el resultado a dos espacios decimales. 
 Debe hacer *input validation*, no se deben aceptar valores negativos para ninguno de los datos pedidos y solo debe aceptar valores válidos de los menus. El *input validation* debe hacerse **antes** de invocar las funciones. 
-Los menús deben estar implementados utilizando un `switch`. 
+Al menos uno de los menús debe estar implementado utilizando un `switch`. 
 
 **Ejemplo de output**
 
@@ -36,7 +36,7 @@ Su programa debe:
   - Hacer *overloading* de las funciones para volumen y área de la superficie (5 pts)
   - Hacer *input validation* de los datos entrados (menú y medidas) (3 pts)
   - Calcular el volumen y el área correctamente (3 pt)
-  - Implementar los menus con switch (uno para las figuras y otro para la medida que se va a calcular) (1 pt)
+  - Implementar al menos un menú con switch (para las figuras o para la medida que se va a calcular) (1 pt)
 - Estar debidamente comentado (1 pt)
 - Utilizar nombres apropiados para las variables y las funciones (1 pt)
 - Tener una indentación apropiada que facilite la legibilidad de su código (1 pt)
