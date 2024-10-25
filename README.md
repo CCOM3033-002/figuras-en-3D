@@ -36,7 +36,7 @@ Su programa debe:
   - Hacer *overloading* de las funciones para volumen y área de la superficie (5 pts)
   - Hacer *input validation* de los datos entrados (menú y medidas) (3 pts)
   - Calcular el volumen y el área correctamente (3 pt)
-  - Desplegar dos menus: uno para las figuras y otro para la medida que se va a calcular (1 pt)
+  - Implementar los menus con switch (uno para las figuras y otro para la medida que se va a calcular) (1 pt)
 - Estar debidamente comentado (1 pt)
 - Utilizar nombres apropiados para las variables y las funciones (1 pt)
 - Tener una indentación apropiada que facilite la legibilidad de su código (1 pt)
